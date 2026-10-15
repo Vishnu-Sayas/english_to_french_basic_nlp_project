@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers>=4.40,<5.0
+sentencepiece
+sacremoses
+sentence-transformers
+scikit-learn
